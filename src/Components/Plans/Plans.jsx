@@ -5,7 +5,9 @@ import plansData from '../../data/plansData';
 function Plans() {
   return (
     <div className="plans-container">
-       <div className="programs-header">
+      <div className="blur plans-blur-1"></div>
+      <div className="blur plans-blur-2"></div>
+       <div className="programs-header" style={{gap:"2rem"}} >
         <span>READY TO START</span>
         <span>YOUR JOURNEY</span>
         <span className='stroke-text'>NOW WITHUS</span>

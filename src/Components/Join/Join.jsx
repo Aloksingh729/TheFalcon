@@ -20,11 +20,11 @@ function Join() {
         <hr />
        <div>
        <span className='stroke-text'>READY TO</span>
-        <span>LEVEL UP</span>
+        <span> LEVEL UP</span>
        </div>
        <div>
        <span className='stroke-text'>YOUR BODY</span>
-        <span>WITH US?</span>
+        <span> WITH US?</span>
        </div>
        
     </div>

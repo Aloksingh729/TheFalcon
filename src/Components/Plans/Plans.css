@@ -66,3 +66,27 @@
 .plans>:nth-child(2)>button{
     color: rgb(179, 37, 37);
 }
+.plans-blur-1{
+    width: 32rem;
+    height: 23rem;
+    top: 6rem;
+    left: 5rem;
+}
+.plans-blur-2{
+    width: 32rem;
+    height: 23rem;
+    top: 10rem;
+    right: 5rem;
+}
+@media screen and (max-width:768px){
+
+.plans{
+    flex-direction: column
+    ;
+}
+.plans>:nth-child(2){
+   transform: none; 
+}
+
+
+}
